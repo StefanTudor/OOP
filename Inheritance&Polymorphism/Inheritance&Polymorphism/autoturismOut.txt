@@ -1,0 +1,10 @@
+An fab: 2010
+Total km: 7500
+Nr. zile utilizare: 4
+Consumul pe zile:
+Ziua 1: 12
+Ziua 2: 10
+Ziua 3: 25
+Ziua 4: 30
+Combustibil: motorina
+Pret: 9900

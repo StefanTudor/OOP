@@ -1,0 +1,9 @@
+An fab: 2005
+Total km: 12000
+Nr. zile utilizare: 3
+Consumul pe zile:
+Ziua 1: 20
+Ziua 2: 40
+Ziua 3: 35
+Marca: Mercedes
+Nr.locuri: 16

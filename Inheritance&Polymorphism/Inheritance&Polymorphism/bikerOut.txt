@@ -1,0 +1,18 @@
+
+Nume: Jack Smith
+Varsta: 30
+Nr biciclete: 3
+
+Biciclistul detine urmatoarele biciclete: 
+B1:
+Denumire: DHS
+Pret: 950
+Dim roti: 24
+B2:
+Denumire: B-Twin
+Pret: 1075
+Dim roti: 26
+B3:
+Denumire: BMX
+Pret: 1500
+Dim roti: 24
