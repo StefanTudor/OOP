@@ -1,2 +1,2 @@
 ## OOP
-### Exemplifying OOP concepts.
+### Exemplifying OOP concepts, practiced in university.
